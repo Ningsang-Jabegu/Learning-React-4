@@ -22,7 +22,7 @@ The project was initiated using the following steps:
 1. **Create React App**: The project setup was accomplished using the Create React App tool. This streamlined the creation of a React application with the necessary configurations.
 
    ```terminal
-   npx create-react-app react-project-3
+   npx create-react-app react-project-4
 2. **Folder Structure Adjusted**: The project adheres to a specific folder structure for organization and maintainability. (build folder is what actually renders in the browser)
    ```terminal
    ├── build
@@ -72,8 +72,9 @@ The project was initiated using the following steps:
 This command will create the build file, now to host the site build file need to be uploaded. In my case I use netlify, so I directly upload build file, and that will deploy the website/page.
 5.    **Usage**: The project is designed to illustrate the core concepts of React, making it an excellent resource for React beginners. By exploring the project's source code, learners can gain insights into:
 
-   - familiarize with the jsx syntax
-   - Adding Components and using it
+   - familiarize with useState
+   - using useEffect
+   - learning to modify the input box's values in React
    - Deployment of React applications
 5. **Contributing**: This project is intended as a learning exercise and is not actively seeking contributions. However, suggestions and feedback are always welcome.
 6. **License**: This project is licensed under the MIT License.

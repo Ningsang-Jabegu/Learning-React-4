@@ -25,6 +25,8 @@ The project was initiated using the following steps:
    npx create-react-app react-project-3
 2. **Folder Structure Adjusted**: The project adheres to a specific folder structure for organization and maintainability. (build folder is what actually renders in the browser)
    ```terminal
+   ├── build
+      ├── (all folders that is needed to display the UI)
    ├── public
       ├── Images
          ├── troll-face.png

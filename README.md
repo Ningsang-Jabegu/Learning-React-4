@@ -1,6 +1,6 @@
 # React Project 4 Documentation (Meme Generator)
 
-<img src="https://github.com/Ningsang-Jabegu/Learning-React-3/blob/main/Screenshot%20of%20site.png" alt="Project Screenshots" height="400">
+<img src="https://github.com/Ningsang-Jabegu/Learning-React-4/blob/main/screenshot%20of%20mem-generator.png" alt="Project Screenshots" height="400">
 
 
 ## Overview

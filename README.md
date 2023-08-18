@@ -9,7 +9,7 @@ This documentation provides an insight into **React Project 4**, a simple projec
 
 ## Project Description
 
-**React Project 4** serves as a practical exploration of React's core principles and features. The project showcases the creation of a web application using React, allowing learners to grasp essential concepts in a hands-on manner.
+**React Project 4** serves as a practical exploration of React's core principles and features. The project showcases the creation of a web application using React, allowing to grasp essential concepts in a hands-on manner.
 
 ## Deployment
 
@@ -26,6 +26,8 @@ The project was initiated using the following steps:
 2. **Folder Structure Adjusted**: The project adheres to a specific folder structure for organization and maintainability. (build folder is what actually renders in the browser)
    ```terminal
    ├── public
+      ├── Images
+         ├── troll-face.png
       ├── favicon.ico
       ├── index.html
       ├── manifest.json
@@ -33,21 +35,14 @@ The project was initiated using the following steps:
       ├── style.css
    └── src
       ├── Component
-         ├── BtnIcon.js
-         ├── Button.js
-         ├── Card.js
-         ├── Description.js
-         ├── Head.js
-         ├── Intro.js
-         ├── Social.js
-      ├── Images
-         ├── Ningsang_Jabegu.jpg
+         ├── Header.js
+         ├── Meme.js    
       ├── App.js
       ├── index.js
    ├── README.md
    ├── package-lock.json
    ├── package.json
-   ├── screenshot of page.png
+   ├── screenshot of mem-generator.png
    
 3.**Initializing and pushing Git**: For the documentation purposes this project is uploaded into the github
    ```terminal
